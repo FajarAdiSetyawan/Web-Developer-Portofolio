@@ -1,6 +1,6 @@
 # Web-Developer-Portofolio
 
-Ini adalah Project dari <b>kelas Belajar Dasar Pemrograman Web</b> oleh Dicoding
+Ini adalah Project dari kelas <b>Belajar Dasar Pemrograman Web</b> oleh Dicoding
 
 tampilannya seperti ini:
 
